@@ -94,7 +94,7 @@ During this project, I improved my practical development skills and understandin
 4. Open the app and start entering symptoms
 
 📦 Download APK:
-[Download Here]([https://drive.google.com/drive/folders/1yMfD2joASSEqcLj8SapalOc0HTaJTWvE](https://drive.google.com/file/d/1wIYzc3VbVDfo0gPvOSIGkXJ4kMs1eb0H/view?usp=drive_link))
+[Download Here](https://drive.google.com/file/d/1wIYzc3VbVDfo0gPvOSIGkXJ4kMs1eb0H/view?usp=drive_link)
 
 ### 🔹 Option 2: Run From Source Code
 
